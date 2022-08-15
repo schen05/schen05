@@ -13,7 +13,8 @@
 
 - 🌎 i'm currently a 10th grader in the u.s.
 - 🏠 i'm interested in machine learning and ai
-- 🌟	in my free time you can find me writing (both words and code)
+- 🌱 i'm currently learning web dev, html, and css
+- :star2: my pronouns are she/her
 
 ### languages & skills:
 <div>
