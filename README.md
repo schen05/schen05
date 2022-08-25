@@ -7,7 +7,7 @@
 <div id="intro">
   <h1>
     hi! i'm sophia
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
   </h1>
 </div>
 
