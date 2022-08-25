@@ -15,7 +15,7 @@
 - 🏠 i'm interested in machine learning and ai
 - 🌱 i'm currently learning web dev, html, and css
 - :star2: i'm a TA for cs1
-- :lab_coat: if you have any questions, feel free to ask!
+- :phone: if you have any questions, feel free to ask!
 
 ### languages & skills:
 <div>
