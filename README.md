@@ -11,10 +11,11 @@
   </h1>
 </div>
 
-- 🌎 i'm currently a 10th grader in the u.s.
+- 🌎 i'm currently a 10th grader
 - 🏠 i'm interested in machine learning and ai
 - 🌱 i'm currently learning web dev, html, and css
-- :star2: my pronouns are she/her
+- :star2: i'm a TA for cs1
+- :lab_coat: if you have any questions, feel free to ask!
 
 ### languages & skills:
 <div>
