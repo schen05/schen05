@@ -13,9 +13,12 @@
 
 - 🌎 i'm currently a 10th grader
 - :star2: i'm a ta for cs1
+- :pencil: i do robotics, coding, and math
 - 🏠 i'm interested in machine learning and ai
 - 🌱 i'm currently learning web dev, html, and css
-- :phone: if you have any questions, feel free to ask!
+- :mailbox_with_mail: if you have any questions, feel free to ask!
+
+---
 
 ### languages & skills:
 <div>
