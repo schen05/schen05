@@ -12,7 +12,7 @@
 </div>
 
 - 🌎 i'm currently a 10th grader
-- - :star2: i'm a ta for cs1
+- :star2: i'm a ta for cs1
 - 🏠 i'm interested in machine learning and ai
 - 🌱 i'm currently learning web dev, html, and css
 - :phone: if you have any questions, feel free to ask!
