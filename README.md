@@ -13,7 +13,6 @@
 
 - 🌎 i'm currently a 10th grader
 - :star2: i'm a ta for cs1
-- 🏠 i'm interested in machine learning and ai
 - 🌱 i'm currently learning web dev, html, and css
 - :mailbox_with_mail: if you have any questions, feel free to ask!
 - :email: my email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
