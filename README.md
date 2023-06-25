@@ -11,9 +11,9 @@
   </h1>
 </div>
 
-- 🌎 i'm currently a 10th grader
+- 🌎 i'm currently a 11th grader
 - :star2: i'm a ta for cs1
-- 🌱 i'm currently learning machine learning/data science
+- 🌱 i'm currently learning about machine learning & generative ai
 - :mailbox_with_mail: if you have any questions, feel free to ask!
 - :email: my email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
 
@@ -23,12 +23,10 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java alt="java" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **schen05/schen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
