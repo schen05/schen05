@@ -6,7 +6,7 @@
 </div>
 
 - 🌎 i'm currently a 11th grader
-- :star2: i'm a ta for cs1
+- :star2: i'm a TA for CS1
 - :mailbox_with_mail: if you have any questions, feel free to ask!
 - :email: my email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
 
