@@ -1,9 +1,3 @@
-<div id="header">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400"/>
-</div>
-
----
-
 <div id="intro">
   <h1>
     hi! i'm sophia
@@ -13,7 +7,6 @@
 
 - 🌎 i'm currently a 11th grader
 - :star2: i'm a ta for cs1
-- 🌱 i'm currently learning about machine learning & generative ai
 - :mailbox_with_mail: if you have any questions, feel free to ask!
 - :email: my email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
 
