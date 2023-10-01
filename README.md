@@ -1,13 +1,12 @@
-<div id="intro">
+<div>
   <h1>
-    hi! i'm sophia
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>&nbsp;
+    hi! i'm sophia 👋
   </h1>
 </div>
 
 - 🌎 i'm currently a 11th grader
 - :star2: i'm a TA for CS1
-- :email: my email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
+- :email: feel free to contact me by email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
 
 ---
 
