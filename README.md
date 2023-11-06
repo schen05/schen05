@@ -1,12 +1,12 @@
 <div>
   <h1>
-    hi! i'm sophia 👋
+    Hi! I'm Sophia 👋
   </h1>
 </div>
 
-- 🌎 i'm currently a 11th grader
-- :star2: i'm a TA for CS1
-- :email: feel free to contact me by email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
+- 🌎 I'm currently a 11th grader
+- :star2: I'm a TA for CS1
+- :email: Feel free to contact me by email: <a href="mailto:sophia.chen@menloschool.org">sophia.chen@menloschool.org</a>
 
 ---
 
